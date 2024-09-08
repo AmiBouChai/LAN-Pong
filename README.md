@@ -1,3 +1,5 @@
+Multiplayer pong played over LAN
+
 How to play:
 
 You either challenge or wait to be challenged. 
